@@ -1,6 +1,8 @@
 # Python program to translate 
 # speech to text and text to speech 
 
+#if that don't work try this : pip install pipwin 
+#                              pipwin install pyaudio
 
 import speech_recognition as sr 
 import pyttsx3 
