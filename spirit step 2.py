@@ -1,6 +1,9 @@
 # Python program to translate 
 # speech to text and text to speech 
-
+# pip install speechrecognition
+# linux : sudo apt-get install python3-pyaudio
+# pip install pyaudio
+# pip install pyttsx3
 import wikipedia
 import speech_recognition as sr 
 import pyttsx3
@@ -38,11 +41,12 @@ while(1):
 			
 			#listens for the user's input 
 			audio2 = r.listen(source2)
-			#check what the user said you can basicly change this to everything you want
-			if r.recognize_google(audio2,) == 'test' :
+			#check what the user said you can basicly change this to everything you want. btw. you use google to regonize the voice 
+			if r.recognize_google(audio2,) == 'hey spirit' :
+                                #answer after check
 				test = "yes"
 				SpeakText(test)
-			# Using ggogle to recognize audio 
+		
 			MyText = 'test' 
 			 
 			 
