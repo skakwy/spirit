@@ -11,4 +11,4 @@ I made two steps so far so stay tune. If I change something I'll write it on my 
 
 3. In the last step I want to add a little screen, wich make it look a little bit better.
 
-_If you want to have a advanced tutorial for more things to add, like wikipedia or weather than write me on my Discord and I'll make a tutorial as fast as possible.
+If you want to have a advanced tutorial for more things to add, like wikipedia or weather than write me on my Discord and I'll make a tutorial as fast as possible.
