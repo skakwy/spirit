@@ -9,4 +9,6 @@ I made two steps so far so stay tune. If I change something I'll write it on my 
 
 2. In the second step we will change the error message and that the voice helper will answer after you say a specific word. You can imagen that it's like Hey Google or Hey Siri, but we are far away.
 
-3. In this step I'd like to add Weather to the project so you can basicly ask : 'spirit what's the weather ... ' or 'spirit weathe'. Your can also add options to say say the weather in NewYork
+3. In the last step I want to add a little screen, wich make it look a little bit better.
+
+_If you want to have a advanced tutorial for more things to add, like wikipedia or weather than write me on my Discord and I'll make a tutorial as fast as possible.
