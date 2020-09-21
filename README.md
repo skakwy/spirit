@@ -9,4 +9,4 @@ I made two steps so far so stay tune. If I change something I'll write it on my 
 
 2. In the second step we will change the error message and that the voice helper will answer after you say a specific word. You can imagen that it's like Hey Google or Hey Siri, but we are far away.
 
-If you want to have a advanced tutorial for more things to add, like wikipedia or weather than write me on my Discord and I'll make a tutorial as fast as possible.
+If you want to have a advanced tutorial for more things to add, like wikipedia or weather than write me on my Discord and I'm going to make a tutorial as fast as possible.
