@@ -2,7 +2,7 @@
 A basic voice Assistant
 
 You can use this for non commercial use.
-If you have quistions or if you like to have a tutorial you can write on my Discord Server : https://discord.gg/Bjbe5Cb.
+If you have quistions write me on Discord skillgamer#6050.
 I made two steps so far so stay tune. If I change something I'll write it on my Discord server. You can find the new Steps with pressing strg+f and than type in new. Don't hate me if I make something wrong. This is my first Python project and I'm not very good in english.
 
 1. In the first step we basicly going to make a simple text to speech. That means that something you say the voice helper say it back.(Check out https://www.geeksforgeeks.org/python-convert-speech-to-text-and-text-to-speech/ this Article helped me alout and is the first step)
